@@ -41,9 +41,9 @@ Output: [[1,4],[2,5],[3,6]]
 ## Solution
 
 **Language:** C  
-**Runtime:** 1 ms (beats 8.98%)  
-**Memory:** 15.8 MB (beats 64.98%)  
-**Submitted:** 2026-11-26T05:17:49.703Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 15.8 MB (beats 90.26%)  
+**Submitted:** 2026-11-26T05:36:47.426Z  
 
 ```c
 /**
